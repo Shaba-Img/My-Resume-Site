@@ -1,0 +1,174 @@
+html {
+    background-color: #c4b6a5;
+}
+
+#firstbox { 
+    background-color: #0074f869;
+    border: solid black;
+    border-radius: 10px;
+    border-width: 2px;
+    padding: 10px;
+}
+
+h1 {
+    color: #000000;
+    text-align: center; 
+    background-color: #ffffff;
+    width: 100%;
+    border-radius: 2px;
+
+}
+
+h2 {
+    text-decoration-line: underline;
+}
+
+p {
+    text-align: center;
+}
+
+img { display: flex;
+    margin-right: auto;
+    margin-left: auto;
+    border: solid #ffffff;
+    border-width: 1px;
+    border-radius: 10px;
+}
+
+
+#secondbox {
+    background-color: #008cff42;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    border-width: 2px;
+}
+
+#secondbox p { 
+    color: #000000;
+    text-align: center;
+} 
+
+
+#thirdbox {
+    background-color: #4747ff2d;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    border-width: 2px;
+}
+
+.Skills {
+    color: #000000;
+}
+
+.IT {
+    color: #000000;
+}
+
+.skill-list {
+    color: #124f63;
+}
+
+
+
+#fourthbox {
+    background-color: #008cff42;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    border-width: 2px;
+}
+
+.education {
+    color: #000000;
+}
+
+.TFC {
+    color: #000000;
+    text-align: center;
+}
+
+.Ndip {
+    color: black;
+
+}
+
+.year {
+    color: #000000;
+}
+
+
+#fifthbox {
+    background-color: #4747ff2d;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    border-width: 2px;
+
+}
+
+.work {
+    color: #000000;
+}
+
+.company {
+    color: #000000;
+    text-align: center;
+}
+
+.position > .positionlist {
+    color: #000000;
+    text-align: center;
+}
+
+.workyear {
+    color: #000000;
+    text-align: center;
+}
+
+#sixthbox {
+    background-color: #008cff42;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    border-width: 2px;
+
+}
+
+.cert {
+    color: #000000;
+}
+
+.certname {
+    color: #000000;
+    text-align: center;
+}
+
+#seventhbox {
+    background-color: #ffffff;
+    padding: 2px;
+    margin: 10px;
+    border-radius: 2px;
+}
+
+.copyright {
+    color: #000000;
+}
+
+#contactbox {
+    background-color: #ffffff;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+
+}
+
+.contactdetails {
+    color: #ffffff;
+    background-color: #124f63;
+}
+
+.contact {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}
