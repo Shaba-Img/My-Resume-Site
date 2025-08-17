@@ -8,13 +8,13 @@ html {
         height: fit-content;
     }
     p {
-        font-size: 50%;
+        font-size: smaller;
     }
     h1 {
-        font-size: 50%;
+        font-size: smaller;
     }
     h2 {
-        font-size: 50%;
+        font-size: smaller;
     }
 }
 
@@ -189,4 +189,5 @@ img { display: flex;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
 
 }
+
 
