@@ -7,6 +7,15 @@ html {
         width: fit-content;
         height: fit-content;
     }
+    p {
+        font-size: 50%;
+    }
+    h1 {
+        font-size: 50%;
+    }
+    h2 {
+        font-size: 50%;
+    }
 }
 
 #firstbox { 
@@ -180,3 +189,4 @@ img { display: flex;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
 
 }
+
