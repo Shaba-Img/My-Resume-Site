@@ -2,6 +2,13 @@ html {
     background-color: #c4b6a5;
 }
 
+@media (max-width: 600px) {
+    div {
+        width: fit-content;
+        height: fit-content;
+    }
+}
+
 #firstbox { 
     background-color: #0074f869;
     border: solid black;
@@ -171,4 +178,5 @@ img { display: flex;
 
 .contact {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+
 }
