@@ -2,8 +2,8 @@ html {
     background-color: #c4b6a5;
 }
 
-@media (max-width: 600px) and (min-width: 1920px);
-    div { {
+@media (max-width: 1920px) and (min-width: 1920px); {
+    
     div {
         width: fit-content;
         height: fit-content;
@@ -190,6 +190,7 @@ img { display: flex;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
 
 }
+
 
 
 
